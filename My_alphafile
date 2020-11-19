@@ -1,5 +1,4 @@
 def first_data(self):
   print('Hello World')
-  print('first edit')
 
 first_data()
