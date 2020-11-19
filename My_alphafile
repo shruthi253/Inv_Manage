@@ -1,6 +1,5 @@
 def first_data(self):
   print('Hello World')
   print('first edit')
-  print('Second edit')
 
 first_data()
