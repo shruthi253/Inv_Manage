@@ -1,4 +1,6 @@
 def first_data(self):
   print('Hello World')
+  print('first edit')
+  print('Testing commit append')
 
 first_data()
